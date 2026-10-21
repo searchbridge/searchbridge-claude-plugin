@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "searchbridge": {
+      "type": "http",
+      "url": "https://intelligence.searchbridge.ai/api/mcp"
+    }
+  }
+}

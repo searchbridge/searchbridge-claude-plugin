@@ -1,0 +1,15 @@
+{
+  "name": "searchbridge",
+  "description": "SearchBridge plugins for Claude.",
+  "owner": {
+    "name": "Search Bridge",
+    "email": "info@searchbridge.ai"
+  },
+  "plugins": [
+    {
+      "name": "searchbridge",
+      "source": "./",
+      "description": "Explore SearchBridge brand data through read-only, permission-scoped queries."
+    }
+  ]
+}

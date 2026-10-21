@@ -1,0 +1,17 @@
+{
+  "name": "searchbridge",
+  "displayName": "SearchBridge",
+  "version": "0.1.2",
+  "description": "Explore SearchBridge brand data through read-only, permission-scoped queries.",
+  "author": {
+    "name": "Search Bridge",
+    "email": "info@searchbridge.ai",
+    "url": "https://www.searchbridge.ai"
+  },
+  "homepage": "https://www.searchbridge.ai",
+  "repository": "https://github.com/searchbridge/searchbridge-claude-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://www.searchbridge.ai/privacy",
+  "keywords": ["geo", "ai-search", "brand-visibility", "analytics"],
+  "icon": "./assets/icon.png"
+}
