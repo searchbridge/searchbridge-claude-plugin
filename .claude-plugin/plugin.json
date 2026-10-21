@@ -12,6 +12,9 @@
   "repository": "https://github.com/searchbridge/searchbridge-claude-plugin",
   "license": "MIT",
   "privacyPolicyUrl": "https://www.searchbridge.ai/privacy",
+  "termsOfServiceUrl": "https://www.searchbridge.ai/terms",
+  "supportUrl": "https://www.searchbridge.ai/contact-us",
+  "documentationUrl": "https://github.com/searchbridge/searchbridge-claude-plugin#readme",
   "keywords": ["geo", "ai-search", "brand-visibility", "analytics"],
   "icon": "./assets/icon.png"
 }
